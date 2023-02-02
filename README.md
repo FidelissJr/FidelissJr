@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
-- 🔭 Currently working more focused on front-end development with Vue.js. However, i also develop a rest api using C#
+- 🔭 Currently working focused on front-end development with Vue.js. However, i also develop a rest api using C#
 - 🌱 I’m currently learning React.js
 
 <div style="display: inline_block">
