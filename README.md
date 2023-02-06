@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React.js
 
 <div style="display: inline_block">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fidelissjr&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="Anurag's github stats" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fidelissjr&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="Anurag's github stats" /> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidelissjr&layout=compact&theme=midnight-purple&hide_border=true" /> 
 </div>
 
