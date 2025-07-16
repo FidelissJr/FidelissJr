@@ -1,7 +1,6 @@
 ### Hello, World! 👋
 
 - 🔭 Currently working focused on front-end development with Vue.js. However, i also develop a rest api using C#
-- 🌱 I’m currently learning React.js
 
 <div style="display: inline_block">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fidelissjr&show_icons=true&include_all_commits=true&theme=discord_old_blurple&hide_border=true" alt="Anurag's github stats" /> 
